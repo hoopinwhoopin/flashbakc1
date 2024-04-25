@@ -1,0 +1,58 @@
+[
+  {
+    "id": "6EliiidBbpIS",
+    "brand": "Dior",
+    "title": "DIOR ReflectedDP S6D",
+    "price": " ₹25,280.00",
+    "originalPrice": "",
+    "description": "Refined and contemporary, Dior continues to challenge the trend in the Clothes industry. Owning a pair means having a powerful fashion tool. ",
+    "technicalDetails": [
+      "Eye 63mm Bridge 11mm Temple 140mm",
+      "Corrosion-resistant metal ",
+      "Composite Lens",
+      "Made in Italy"
+    ],
+    "type": "sunnies",
+    "color": "Red/Gold",
+    "quantity": 19,
+    "onSale": false,
+    "image1url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F98%2F52%2F9852763d352463e996a4e5f9c0ac85e592bc42aa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D",
+    "image2url": "https://lp2.hm.com/hmgoepprod?set=format%5Bwebp%5D%2Cquality%5B79%5D%2Csource%5B%2F98%2F52%2F9852763d352463e996a4e5f9c0ac85e592bc42aa.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BDESCRIPTIVESTILLLIFE%5D%2Cres%5Bm%5D%2Chmver%5B2%5D&call=url%5Bfile%3A%2Fproduct%2Fmain%5D"
+  }
+,
+  {
+    "id": "BqUZdqXH6BsF",
+    "brand": "Mr Leight",
+    "title": "Mr Leight Runyon",
+    "price": " ₹36,600.00",
+    "originalPrice": " ₹21,850.00",
+    "description": "The frame's design was inspired by classic silhouettes and the acetate styles of Old Hollywood. Its subtle cat eye shape, precious metal plating and precious metal lenses reflect the sophisticated lifestyles of Runyon Canyon's residents.",
+    "technicalDetails": [
+      "Eye 51mm, Bridge 20mm, Temple 146mm",
+      "CR39 lenses with AR coating",
+      "Made in Japan"
+    ],
+    "type": "sunnies",
+    "color": "Black",
+    "quantity": 6,
+    "onSale": true
+  },
+  {
+    "id": "2Zt911FD2Zcw",
+    "brand": "RetroSuperFuture",
+    "title": "RetroSuperFuture Meta",
+    "price": " ₹6,555.00",
+    "originalPrice": " ₹21,850.00",
+    "description": "Meta is a sleek all-metal silhouette characterized by a unique construction and streamlined angular design. The sharp geometric lenses are encapsulated inside the metal frame that circumnavigates and defines the shape. This version of Meta features grey lenses and silver metal finish.",
+    "technicalDetails": [
+      "Eye 56mm Bridge 11mm Temple 140mm",
+      "Metal Frame ",
+      "100% UV protected lenses ",
+      "Made in Italy"
+    ],
+    "type": "sunnies",
+    "color": "",
+    "quantity": 4,
+    "onSale": true
+  }
+]
