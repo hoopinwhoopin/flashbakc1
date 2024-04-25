@@ -19,6 +19,7 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 import Photos from './pages/Photos';
 
 import './sass/main.scss';
+import BlogPage from './pages/BlogPage';
 
 function RouteSwitch() {
 
@@ -55,6 +56,7 @@ function RouteSwitch() {
             />
           </Route>
           <Route path="/privacypolicy" element={<PrivacyPolicy/>} />
+          <Route path="/blog" element={<BlogPage/>} />
           <Route path="*" element={<CartPage/>} />
         </Routes>
         <Footer />

@@ -45,7 +45,7 @@ function NavBarSticky(props) {
       animate={{ y: 0 }}
       transition={{ type: 'tween' }}
     >
-      <script src="../path/to/flowbite/dist/flowbite.min.js"></script>
+      <script src="../path/to/flowbite/dist/flowbite.min.js" />
       <button
         type="button"
         className="material-symbols-outlined nav__btn-menu"
@@ -113,7 +113,7 @@ function NavBarSticky(props) {
          </NavLink> 
         </Dropdown.Item>
       <Dropdown.Item><NavLink
-          to="/about"
+          to="/blog"
           className="nav__link
           "
         >Blog
